@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lisa Yu 👋
 
-![My Headshot](./SWEheadshot.jpg)
+<img src="./SWEheadshot.jpg" alt="My Headshot" width="200"/>
 
 ## About Me
 I’m a Computer Science student at San Jose State University passionate about data science, AI, and building impactful applications.  
