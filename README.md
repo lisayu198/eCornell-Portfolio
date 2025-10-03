@@ -13,7 +13,7 @@ I’m a Computer Science student at San Jose State University passionate about d
 - 🚀 Involved in SWE (Society of Women Engineers) and tech community events  
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/lisa-yu198/))  
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/lisa-yu198/)
 - 📧 Email: lisayu198@gmail.com 
 
 Thanks for stopping by!
