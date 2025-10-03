@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lisa Yu 👋
 
-![Profile Picture]!](https://github.com/user-attachments/assets/605f491c-5b1a-498f-a98e-370a838337d6)
+![My Headshot](./SWEheadshot.jpg)
 
 ## About Me
 I’m a Computer Science student at San Jose State University passionate about data science, AI, and building impactful applications.  
